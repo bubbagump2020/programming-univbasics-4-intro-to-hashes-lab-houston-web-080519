@@ -27,3 +27,4 @@ def update_counting_hash(hash, key)
     [key] +=
   }
 end
+end
